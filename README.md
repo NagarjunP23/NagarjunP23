@@ -4,7 +4,7 @@
 
 - 📫 How to reach me...
 email- nagarjunp23@gmail.com...
-Twitter- twitter.com/NagarjunP6
+Twitter- twitter.com/NagarjunP23
 
 <!---
 NagarjunP23/NagarjunP23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
