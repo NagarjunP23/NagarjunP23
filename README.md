@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nagarjun.
 - 👀 I’m interested in Data Analytics and Web development.
-- 🌱 I’m currently learning Data Analytics from Google Data Analytics professional certificate
+- 🌱 I’m currently working as Analyst at Capgemini India.
 
 - 📫 How to reach me...
 email- nagarjunp23@gmail.com...
