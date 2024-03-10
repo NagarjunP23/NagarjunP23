@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nagarjun P</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-- 🌱 I’m currently learning **SQL, Power BI**
+- 🚀 I'm a Software Engineer who loves tackling problems and always looks for ways to improve. Currently, I focus on keeping applications running smoothly, fixing issues for users, and finding bugs.
 
-- 💬 Ask me about **SQL**
+- 🔍 But I'm ready for a change! I'm diving into the world of Data Analysis, where I can use my skills in SQL, Excel, Power BI, and Python to dig into data, find trends, and help teams make smarter decisions.
+
+- 📊 I'm all about paying attention to the details and making sure the information I provide is spot-on. I'm learning to create reports and cool visuals that make data easier to understand and use.
+
+- 💡 I'm excited to bring my analytical skills and tech know-how to the world of data, where I can help businesses grow and succeed.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
